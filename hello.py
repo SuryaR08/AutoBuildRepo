@@ -1,1 +1,3 @@
-print("Hello, Jenkins Auto Build Trigger!..............")
+import numpy as np
+ 
+print(np.sin(np.pi/2.))
